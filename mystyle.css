@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+@media (min-width: 992px) {
+    /* โค้ด CSS สำหรับการจัดวางหน้าจอ Desktop */
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* โค้ด CSS สำหรับการจัดวางหน้าจอ Tablet */
+}
+
+@media (max-width: 767px) {
+    /* โค้ด CSS สำหรับการจัดวางหน้าจอ Mobile */
+}
+
 body{
     background-color: #f4f4f4;
     padding: 0;
